@@ -1,0 +1,24 @@
+# Flask and Web Server
+Flask
+Jinja2
+itsdangerous
+blinker
+click
+python-dotenv
+
+# Database
+mysql-connector-python
+
+# AI and Image Processing
+ultralytics
+numpy
+pandas
+matplotlib
+opencv-python
+pillow
+scipy
+seaborn
+
+# Utility
+requests
+PyYAML
